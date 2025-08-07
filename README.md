@@ -10,8 +10,8 @@
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/rishabhmodi13/SnipelITAutomation.git
-cd SnipelITAutomation
+git clone https://github.com/rishabhmodi13/SnipeITAutomation.git
+cd SnipeITAutomation
 ```
 
 2. Install dependencies:
