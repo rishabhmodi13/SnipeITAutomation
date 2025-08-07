@@ -10,8 +10,8 @@
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/snipeit-automation.git
-cd snipeit-automation
+git clone https://github.com/rishabhmodi13/SnipelITAutomation.git
+cd SnipelITAutomation
 ```
 
 2. Install dependencies:
@@ -26,5 +26,5 @@ dotnet test
 ```
 
 ## Notes
-- Uses Snipe-IT Demo credentials: `admin@admin.com` / `password`
+- Uses Snipe-IT Demo credentials: `admin` / `password`
 - Runs in non-headless mode by default
