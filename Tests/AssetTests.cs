@@ -17,7 +17,7 @@ namespace SnipeITAutomation.Tests
             string assetName = $"MacBook-{Guid.NewGuid().ToString().Substring(0, 5)}";
 
             await login.NavigateAsync();
-            await login.LoginAsync("admin@admin.com", "password");
+            await login.LoginAsync("admin", "password");
 
             await asset.GoToAssetCreateAsync();
             await asset.CreateAssetAsync(assetName);
